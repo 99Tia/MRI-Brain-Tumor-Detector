@@ -8,4 +8,4 @@ Designed and implemented a comprehensive pipeline for classifying brain MRI imag
 
 ## Dataset
 
- - I have utilized the [Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)dataset from Kaggle.
+ - I have utilized the [Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection) dataset from Kaggle.
